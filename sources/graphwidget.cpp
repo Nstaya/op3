@@ -206,7 +206,7 @@
 //     return rect().adjusted(graphSettings.margin, graphSettings.topMargin, -graphSettings.margin, -graphSettings.margin);
 // }
 
-#include "graphwidget.h"
+#include "graphwidget.hpp"
 #include <QPainter>
 #include <QFontMetrics>
 

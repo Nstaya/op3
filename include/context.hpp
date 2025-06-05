@@ -1,8 +1,8 @@
 #ifndef CONTEXT_H
 #define CONTEXT_H
 
-#include "logic.h"
-#include "memory.h"
+#include "logic.hpp"
+#include "memory.hpp"
 
 typedef struct {
     Node* dataHead;

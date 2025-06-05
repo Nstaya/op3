@@ -1,9 +1,9 @@
 #ifndef MEMORY_H
 #define MEMORY_H
 
-#include "logic.h"
+#include "logic.hpp"
 #include <stdlib.h>
-#include "utilities.h"
+#include "utilities.hpp"
 
 float* allocateArr(int count);
 Node* allocateNode();

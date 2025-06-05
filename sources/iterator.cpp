@@ -1,4 +1,4 @@
-#include "iterator.h"
+#include "iterator.hpp"
 #include <stdlib.h>
 
 void initIterator(Iterator* iterator, Node* head) {

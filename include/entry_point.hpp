@@ -1,7 +1,7 @@
 #ifndef ENTRY_POINT_H
 #define ENTRY_POINT_H
 
-#include "context.h"
+#include "context.hpp"
 
 typedef enum {
     INIT,

@@ -2,8 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include "entry_point.h"
-#include "graphwidget.h"
+#include "entry_point.hpp"
+#include "graphwidget.hpp"
 #include <QWidget>
 #include <QPainter>
 

@@ -1,4 +1,4 @@
-#include "utilities.h"
+#include "utilities.hpp"
 
 void swap(float* a, float* b) {
     float tmp = *a;

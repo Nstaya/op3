@@ -1,7 +1,7 @@
 #ifndef ITERATOR_H
 #define ITERATOR_H
 
-#include "logic.h"
+#include "logic.hpp"
 
 typedef struct {
     Node* current;

@@ -1,5 +1,5 @@
-#include "entry_point.h"
-#include "context.h"
+#include "entry_point.hpp"
+#include "context.hpp"
 #include <cstring>
 #include <stdlib.h>
 

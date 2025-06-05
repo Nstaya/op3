@@ -1,4 +1,4 @@
-#include "memory.h"
+#include "memory.hpp"
 
 float* allocateArr(int count) {
     if (count <= 0) return NULL;

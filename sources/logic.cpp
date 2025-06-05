@@ -1,5 +1,5 @@
-#include "logic.h"
-#include "memory.h"
+#include "logic.hpp"
+#include "memory.hpp"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

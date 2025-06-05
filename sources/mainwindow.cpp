@@ -1,6 +1,6 @@
-#include "mainwindow.h"
+#include "mainwindow.hpp"
 #include "ui_mainwindow.h"
-#include "graphwidget.h"
+#include "graphwidget.hpp"
 #include <QFileDialog>
 #include <QMessageBox>
 #include <QTableWidgetItem>
